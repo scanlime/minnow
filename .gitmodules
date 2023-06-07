@@ -112,3 +112,6 @@
 [submodule "mods/xdecor"]
 	path = mods/xdecor
 	url = https://github.com/minetest-mods/xdecor.git
+[submodule "mods/digilines"]
+	path = mods/digilines
+	url = https://github.com/minetest-mods/digilines.git
