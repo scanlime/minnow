@@ -114,4 +114,4 @@ load_mod_xdecor = mods/xdecor
 load_mod_sounds_redone = mods/sounds_redone
 
 load_mod_mapserver = mods/mapserver_mod
-load_mod_dumpnodes = mods/dumpnodes
+load_mod_dumpnodes = mods/minetestmapper/util/dumpnodes
