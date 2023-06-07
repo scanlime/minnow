@@ -115,6 +115,6 @@
 [submodule "mods/digilines"]
 	path = mods/digilines
 	url = https://github.com/minetest-mods/digilines.git
-[submodule "mods/minetestmapper"]
-	path = mods/minetestmapper
-	url = https://github.com/minetest/minetestmapper.git
+[submodule "mods/dumpnodes"]
+	path = mods/dumpnodes
+	url = https://github.com/Montandalar/dumpnodes
