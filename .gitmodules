@@ -1,0 +1,114 @@
+[submodule "games/minetest_game"]
+	path = games/minetest_game
+	url = https://github.com/minetest/minetest_game.git
+[submodule "mods/3d_armor_flyswim"]
+	path = mods/3d_armor_flyswim
+	url = https://github.com/sirrobzeroone/3d_armor_flyswim.git
+[submodule "mods/ambience"]
+	path = mods/ambience
+	url = https://notabug.org/TenPlus1/ambience.git
+[submodule "mods/animalia"]
+	path = mods/animalia
+	url = https://github.com/ElCeejo/animalia.git
+[submodule "mods/appliances"]
+	path = mods/appliances
+	url = https://github.com/sfence/appliances.git
+[submodule "mods/basic_materials"]
+	path = mods/basic_materials
+	url = https://github.com/mt-mods/basic_materials.git
+[submodule "mods/biome_lib"]
+	path = mods/biome_lib
+	url = https://github.com/mt-mods/biome_lib.git
+[submodule "mods/clothing"]
+	path = mods/clothing
+	url = https://github.com/sfence/clothing.git
+[submodule "mods/creatura"]
+	path = mods/creatura
+	url = https://github.com/ElCeejo/creatura.git
+[submodule "mods/datastorage"]
+	path = mods/datastorage
+	url = https://github.com/minetest-technic/datastorage.git
+[submodule "mods/digiterms"]
+	path = mods/digiterms
+	url = https://github.com/pyrollo/digiterms.git
+[submodule "mods/display_modpack"]
+	path = mods/display_modpack
+	url = https://github.com/pyrollo/display_modpack.git
+[submodule "mods/font_botic"]
+	path = mods/font_botic
+	url = https://github.com/pyrollo/font_botic.git
+[submodule "mods/font_oldwizard"]
+	path = mods/font_oldwizard
+	url = https://github.com/pyrollo/font_oldwizard.git
+[submodule "mods/framedglass"]
+	path = mods/framedglass
+	url = https://github.com/minetest-mods/framedglass.git
+[submodule "mods/item_drop"]
+	path = mods/item_drop
+	url = https://github.com/minetest-mods/item_drop.git
+[submodule "mods/mapserver_mod"]
+	path = mods/mapserver_mod
+	url = https://github.com/minetest-mapserver/mapserver_mod.git
+[submodule "mods/mesecons"]
+	path = mods/mesecons
+	url = https://github.com/minetest-mods/mesecons.git
+[submodule "mods/mesecons_wireless"]
+	path = mods/mesecons_wireless
+	url = https://github.com/GreenXenith/mesecons_wireless.git
+[submodule "mods/minetest-fmod"]
+	path = mods/minetest-fmod
+	url = https://github.com/fluxionary/minetest-fmod.git
+[submodule "mods/minetest-futil"]
+	path = mods/minetest-futil
+	url = https://github.com/fluxionary/minetest-futil.git
+[submodule "mods/minetest-hand_monoid"]
+	path = mods/minetest-hand_monoid
+	url = https://github.com/fluxionary/minetest-hand_monoid.git
+[submodule "mods/minetest-meseportals"]
+	path = mods/minetest-meseportals
+	url = https://notabug.org/Piezo_/minetest-meseportals.git
+[submodule "mods/mod-whitelist"]
+	path = mods/mod-whitelist
+	url = https://github.com/AntumMT/mod-whitelist.git
+[submodule "mods/moreblocks"]
+	path = mods/moreblocks
+	url = https://github.com/minetest-mods/moreblocks.git
+[submodule "mods/moreores"]
+	path = mods/moreores
+	url = https://github.com/minetest-mods/moreores.git
+[submodule "mods/moretrees"]
+	path = mods/moretrees
+	url = https://github.com/mt-mods/moretrees.git
+[submodule "mods/pipeworks"]
+	path = mods/pipeworks
+	url = https://github.com/mt-mods/pipeworks.git
+[submodule "mods/plantlife_modpack"]
+	path = mods/plantlife_modpack
+	url = https://github.com/mt-mods/plantlife_modpack.git
+[submodule "mods/player_monoids"]
+	path = mods/player_monoids
+	url = https://github.com/minetest-mods/player_monoids.git
+[submodule "mods/pride_flags"]
+	path = mods/pride_flags
+	url = https://codeberg.org/Wuzzy/pride_flags.git
+[submodule "mods/skinsdb"]
+	path = mods/skinsdb
+	url = https://github.com/minetest-mods/skinsdb.git
+[submodule "mods/sounds_redone"]
+	path = mods/sounds_redone
+	url = https://github.com/starninjas/sounds_redone.git
+[submodule "mods/technic"]
+	path = mods/technic
+	url = https://github.com/minetest-mods/technic.git
+[submodule "mods/unifieddyes"]
+	path = mods/unifieddyes
+	url = https://github.com/mt-mods/unifieddyes.git
+[submodule "mods/unified_inventory"]
+	path = mods/unified_inventory
+	url = https://github.com/minetest-mods/unified_inventory.git
+[submodule "mods/xconnected"]
+	path = mods/xconnected
+	url = https://github.com/Sokomine/xconnected.git
+[submodule "mods/xdecor"]
+	path = mods/xdecor
+	url = https://github.com/minetest-mods/xdecor.git
