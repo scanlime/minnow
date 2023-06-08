@@ -99,7 +99,6 @@ load_mod_digiterms = mods/digiterms
 load_mod_creatura = mods/creatura
 load_mod_animalia = mods/animalia
 load_mod_pride_flags = mods/pride_flags
-load_mod_clothing = mods/clothing
 load_mod_skinsdb = mods/skinsdb
 load_mod_hand_monoid = mods/minetest-hand_monoid
 load_mod_3d_armor_flyswim = mods/3d_armor_flyswim

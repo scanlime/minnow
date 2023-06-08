@@ -19,9 +19,6 @@
 [submodule "mods/biome_lib"]
 	path = mods/biome_lib
 	url = https://github.com/mt-mods/biome_lib.git
-[submodule "mods/clothing"]
-	path = mods/clothing
-	url = https://github.com/sfence/clothing.git
 [submodule "mods/creatura"]
 	path = mods/creatura
 	url = https://github.com/ElCeejo/creatura.git
